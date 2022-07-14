@@ -154,7 +154,7 @@ int main()
     cout << getlength(head) << endl;
     
     //Deletion operation in linked List
-
+    //deletion operation
     DeleteAtposition(head, tail, 1);
     printLinkedList(head);
     cout << getlength(head) << endl;
@@ -163,7 +163,7 @@ int main()
     printLinkedList(head);
     cout << getlength(head) << endl;
 
-    DeleteAtposition(head, tail, 3);
+    DeleteAtposition(head,  tail, 3);
     printLinkedList(head);
     cout << getlength(head) << endl;
 
