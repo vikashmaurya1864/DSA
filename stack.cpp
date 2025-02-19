@@ -72,8 +72,4 @@ int main()
    s1.pop();
 
    cout<<"stack is empty "<<s1.Isempty()<<endl;
-
-
-
-
 }
